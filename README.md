@@ -15,9 +15,9 @@ Criar um jogo que gere aleatoriamente um código de cor RGB e de acordo com esse
 # Requisitos:
 
 * Gerar um código de cor RGB de forma aleatória
-* Gerar uma paleta de 6 corer de forma aleatório, sendo que uma das cores deverá corresponder ao código RGB gerado
+* Gerar uma paleta de 6 cores de forma aleatória, sendo que uma das cores deverá corresponder ao código RGB gerado
 * Quando o usuário selecionar uma cor da paleta, gerar uma mensagem avisando se acertou a cor correspondente ao código RGB
-* Criar um placar somando os pontos toda ves que o usuário selecionar a cor correta
+* Criar um placar somando os pontos toda vez que o usuário selecionar a cor correta
 * Botão Reset Game para gerar uma nova paleta de cores e um novo código RGB.
 
 # Resultado:
